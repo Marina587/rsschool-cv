@@ -51,4 +51,6 @@ Hobbies: travelling, camping, and reading
 Sport: 
 * jogging, 
 * skiing, 
-* biking.
+* biking,
+* reading,
+* travelling.
