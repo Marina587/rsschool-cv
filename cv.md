@@ -52,5 +52,4 @@ Sport:
 * jogging, 
 * skiing, 
 * biking,
-* reading,
-* travelling.
+* yoga.
