@@ -1,1 +1,1 @@
-https://marina587.github.io/rsschool-cv/cv.md
+https://marina587.github.io/rsschool-cv/index.html
